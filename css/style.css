@@ -1,0 +1,50 @@
+.navbar {
+    background-color: #C8E9FF;
+    font-family: montserrat;
+
+}
+
+.quem-somos{
+    background-color: #fcfcfc;
+}
+
+.margin{
+    padding-top: 35px;
+    padding-bottom: 30px;
+}
+
+.rounded-circle {
+    margin-top: 10px;
+}
+
+.titulo-carousel{
+    font-family: montserrat;
+    font-weight: 600;
+}
+
+.texto-carousel {
+    margin-top: 20px;
+    font-family: poppins;
+}
+
+.col-lg-4{
+    margin-top: 20px;
+}
+
+.texto-servicos{
+    margin-top: 20px;
+    font-family: poppins;
+
+}
+
+.col-lg-6{
+    margin-top: 30px;
+}
+
+.bg-footer{
+    background-color: grey;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    color: white;
+    font-family: poppins;
+}
